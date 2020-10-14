@@ -1,2 +1,2 @@
 # meditation-app
-app to make you relax :)
+Аpp to make you relax :)
